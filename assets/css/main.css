@@ -751,15 +751,9 @@ img {
   opacity: 0.9;
 }
 
-.lg-title a {
-  text-decoration: none;
-  /* color: #000080; */
-  color: #fff;
-}
 
-.lg-title a:hover {
-  color: #fff;
-}
+
+
 .md-title {
   font-size: 2rem;
   font-family: "Roboto", sans-serif;
