@@ -28,13 +28,18 @@ body {
   color: #999999;
   font-size: 1.2em;
 }
+
 .slogan a {
   color: #999999;
 }
 
-.subheader{
+.subheader {
 	text-align: center;
 	font-family: "Poppins", sans-serif;
+}
+
+.subheader h3{
+	font-size: 18px;
 }
 
 h1,
