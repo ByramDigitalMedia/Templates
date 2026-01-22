@@ -43,7 +43,7 @@ body {
 }
 
 h1,
-h2 {
+h2, h3 {
   color: #000080;
   font-weight: 300;
   font-family: "Poppins", sans-serif;
